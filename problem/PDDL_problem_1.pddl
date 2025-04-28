@@ -135,12 +135,12 @@ d60 d61 d62 d63 d64 d65 - route
 (no_seals_check valve1  )
 (no_photo pump0  )
 (no_photo pump1  )
-(at turtlebot0 waypoint0  )
+(at turtlebot0 waypoint2  )
 (full_battery battery0  )
 
 )
 (:goal (and
-(at turtlebot0 waypoint3)
+(at turtlebot0 waypoint4)
 (seals_check valve0)
 (seals_check valve1)
 (photo pump0)
